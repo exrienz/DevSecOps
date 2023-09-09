@@ -122,6 +122,22 @@ In summary, software development methodologies have evolved to meet various proj
 - Facilitates easy release of new features.
 - Enhances customer and developer satisfaction.
 
+## DevSecOps Principles Overview:
+
+DevSecOps is a methodology that guides organizations in reshaping their software development process, emphasizing six fundamental principles:
+
+1. **Automation:** Minimize manual tasks by leveraging automated tools and processes, enhancing productivity, and bolstering product development while ensuring robust security measures.
+
+2. **Iterations:** Accelerate development by integrating prompt feedback from end-users.
+
+3. **Self-Service:** Deploy software in alignment with specific requirements to expedite release cycles.
+
+4. **Continuous Improvement:** Document alterations, challenges, and resolutions for future reference, facilitating ongoing team enhancement.
+
+5. **Continuous Testing:** Deliver products swiftly without compromising security by conducting continuous testing.
+
+6. **Collaboration:** Cultivate a collaborative environment to streamline development efforts and reduce project timelines effectively.
+
 ## Advantages of DevSecOps Methodology
 
 - Constant communication among development, QA, and system admin teams.
@@ -131,3 +147,24 @@ In summary, software development methodologies have evolved to meet various proj
 - Faster and more reliable software updates with application release automation (ARA).
 - Reduces post-release errors, saving QA time.
 - Builds trust among business owners and end users with minimal post-release errors.
+
+# Methodology Comparison
+
+| **Methodology**              | **Waterfall**                                               | **Agile**                                                  | **DevSecOps**                                              |
+|------------------------------|-------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
+| **Approach**                 | - Emphasizes fully predictable systems.                     | - Focuses on rapid Agile delivery of software through the integration of business, development, and quality assurance. | - Implements automation by cross-functional teams for continuous deployment. |
+|                              | - Specifies systems in advance.                             | - Utilizes repeated "sprint" cycles.                       | - Primarily applies to development, security, and operations. |
+|                              | - Assumes constant business needs throughout a project.      | - Acknowledges potential changes in business priorities.   |                                                            |
+| **Goal**                     | - Aims to gather and clarify all requirements upfront.      | - Strives for continuous improvement and maturity in application development. | - Aims to increase the frequency and enhance the quality of application releases. |
+| **Iteration**                | - Follows a sequential development process.                  | - Adopts an iterative development process.                  | - Involves incremental issue resolution and code release as available. |
+| **Teams Collaboration**      | - Collaboration is limited due to functional silos.         | - Collaboration improves with short development cycles and highly engaged businesses. | - Collaboration is extensive, involving all stakeholders and multiple teams from project initiation. |
+| **Quality**                  | - Often results in low-quality outcomes due to late issue identification. | - Quality improves as issues are addressed within each sprint. | - Maintains high quality through automated unit testing during project development. |
+| **Risk**                     | - Risk increases as project development progresses.         | - Risk decreases as project development progresses.         | - Risk decreases as project development progresses.         |
+| **Business Ownership**       | - No business ownership of the project.                     | - Business ownership of the project.                       | - Business ownership of the project.                       |
+| **Delivery/Scheduling**      | - Delivery is slow (monthly).                               | - Delivery is comprehensive and rapid (daily/weekly).       | - Delivery is continuous and lightweight.                   |
+| **Communication & Documentation** | - Communication and documentation are comprehensive.   | - Communication and documentation are lightweight.         | - Communication and documentation are lightweight.         |
+| **Automation**               | - Automation is limited.                                    | - Automation levels vary.                                   | - Automation is high.                                       |
+| **Response to New Business Needs** | - Response is limited due to detailed project specifications. | - Response is responsive, with prioritization enabled by repeated delivery. | - Response is highly responsive, with precise business requirements defined by teams. |
+| **Customer Feedback**        | - Customer feedback is infrequent at project completion.    | - Customer feedback is frequent upon project completion.    | - Customer feedback is continuous.                           |
+
+
