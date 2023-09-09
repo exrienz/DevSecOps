@@ -163,6 +163,6 @@ DevSecOps is a methodology that guides organizations in reshaping their software
 | **Communication & Documentation** | - Communication and documentation are comprehensive. | - Communication and documentation are streamlined. | - Communication and documentation are streamlined. |
 | **Automation**  | - Automation is limited.                               | - Automation levels vary.                            | - Automation is high.                                 |
 | **Response to New Business Needs** | - Responsiveness is limited due to detailed project specifications. | - Responsiveness is enabled by repeated delivery and adapting to changing priorities. | - Highly responsive, with precise business requirements defined by teams. |
-| **Customer Feedback** | - Customer feedback is infrequent, typically occurring upon project completion. | - Customer feedback is frequent upon project completion. | - Customer feedback is continuous throughout the project. |
+| **Customer Feedback** | - Customer feedback is infrequent | - Customer feedback is frequent upon project completion. | - Customer feedback is continuous throughout the project. |
 
 
