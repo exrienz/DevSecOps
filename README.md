@@ -52,12 +52,32 @@ In summary, software development methodologies have evolved to accommodate diffe
 ### Agile Workflow:
 - Breaks projects into user functionality bits.
 - Prioritizes and continuously delivers them in cycles (iterations/sprints).
-- Teams set work goals, estimate time, and plan iterations.
+- Teams set work goals, estimate time and plan iterations.
 - Customer feedback guides improvements.
 
 ### Values and Principles of Agile Manifesto:
 - Values include teamwork, customer collaboration, and adaptability.
 - Principles emphasize customer satisfaction, change adaptability, and technical attention.
+
+#### Agile Manifesto Values:
+1. Prioritizing Individuals and Interactions over Processes and Tools
+2. Favoring Working Software over Comprehensive Documentation
+3. Emphasizing Customer Collaboration over Contract Negotiation
+4. Preferring Responding to Change over Following a Plan
+
+#### Agile Manifesto Principles:
+1. Early and Continuous Delivery of Valuable Software to Satisfy the Customer
+2. Welcoming Changing Requirements, Even in Late Development Stages
+3. Frequent Delivery of Working Software with a Preference for Short Timescales
+4. Collaborating with Customers and Stakeholders Throughout the Project
+5. Building Projects around Motivated Individuals with the Necessary Support
+6. Maximizing Face-to-Face Communication Whenever Possible
+7. Measuring Progress Mainly through Working Software
+8. Maintaining a Sustainable Team Work Pace
+9. Prioritizing Technical Excellence and Good Design
+10. Simplifying and Focusing on Value-Adding Elements
+11. Empowering Self-Organizing Teams for Decision-Making
+12. Regularly Reflecting on Team Performance and Making Adjustments as Needed
 
 ### Benefits of Agile Methodology:
 - Encourages collaboration, teamwork, and quick product development.
