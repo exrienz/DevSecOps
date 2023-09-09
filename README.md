@@ -28,12 +28,12 @@ In summary, software development methodologies have evolved to meet various proj
 
 ## Phases of Waterfall Model
 
-1. Requirement Analysis: Initial project planning without specifying processes.
-2. System Design: Gathering customer requirements, logical, and physical design.
-3. Implementation/Code: Coding based on design specifications.
-4. System Testing: Integration testing for errors.
-5. System Deployment: Product release and customer usage.
-6. System Maintenance: Post-deployment issue fixing.
+1. **Requirement Analysis:** Initial project planning without specifying processes.
+2. **System Design:** Gathering customer requirements, logical, and physical design.
+3. **Implementation/Code:** Coding based on design specifications.
+4. **System Testing:** Integration testing for errors.
+5. **System Deployment:** Product release and customer usage.
+6. **System Maintenance:** Post-deployment issue fixing.
 
 ## Benefits of Waterfall Model
 
@@ -116,8 +116,8 @@ In summary, software development methodologies have evolved to meet various proj
 - Aims at fast software development.
 - Emphasizes continuous integration and collaboration.
 - Swift feedback mechanism to reduce code deployment wait time.
-- Combines Dev and Ops teams for SDLC implementation.
-- Encourages communication between Dev and Ops teams.
+- Combines Dev, Sec, and Ops teams for SDLC implementation.
+- Encourages communication between Dev, Sec, and Ops teams.
 - Enables continuous integration, automated testing, and deployment.
 - Facilitates easy release of new features.
 - Enhances customer and developer satisfaction.
