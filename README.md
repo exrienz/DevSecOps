@@ -12,7 +12,7 @@ Agile, on the other hand, emphasizes continuous iteration of development and tes
 
 ## The DevSecOps Methodology
 
-DevSecOps focuses on enhancing collaboration and productivity by integrating development and operations teams into a single unit. It emphasizes continuous integration, continuous delivery, and continuous deployment (CI/CD) pipelines, aided by automation. This approach streamlines the development and deployment process, enabling efficient teamwork and reducing the risk of rollbacks or failures.
+DevSecOps focuses on enhancing collaboration and productivity by integrating development, security, and operations teams into a single unit. It emphasizes continuous integration, continuous delivery, and continuous deployment (CI/CD) pipelines, aided by automation. This approach streamlines the development and deployment process, enabling efficient teamwork and reducing the risk of rollbacks or failures.
 
 In summary, software development methodologies have evolved to meet various project needs. Waterfall offers structure but lacks flexibility, Agile prioritizes rapid development, and DevSecOps emphasizes collaboration and automation for streamlined operations.
 
