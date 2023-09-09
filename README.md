@@ -1,6 +1,6 @@
-**Title: Evolution of Software Development Methodologies**
+**Title: Transformation of Software Development Approaches**
 
-**Subtitle: Understanding the Transition from Waterfall to Agile to DevOps**
+**Subtitle: Grasping the Shift from Waterfall through Agile to DevOps**
 
 Organizations employ various software development methodologies, each with its own set of advantages and drawbacks. These methodologies have evolved over time to meet changing needs.
 
