@@ -1,1 +1,21 @@
+# Security Measures During DevSecOps Planning Phase
 
+1. **Collaboration:** To maintain a continuous focus on security within DevSecOps, the team engages in collaborative discussions and reviews to define their security strategy during the planning phase. These discussions should revolve around enhancing both security and performance.
+
+2. **Understanding Requirements:** Once the team comprehends the business needs, encompassing functionalities and performance objectives, they proceed to gather security requirements. These may encompass acceptance test criteria, threat defense models, and related aspects.
+
+3. **Comprehensive Planning:** During this phase, a detailed plan is formulated, specifying the where, how, and when of security testing activities. The plan's primary objective is to ensure thorough threat and vulnerability analysis throughout the project's lifecycle to maintain its security. This planning process may utilize tools such as Cyberplanner, Service Now, and Jira.
+
+4. **Threat Modeling:** Threat modeling is a critical exercise conducted during the planning stage. Its purpose is to:
+   - Identify potential issues before the coding phase commences.
+   - Highlight architectural and design weaknesses that might evade detection through other means.
+   - Identify high-risk components.
+   - Determine the security controls to be implemented and establish priorities.
+   - Develop a fuzz testing plan to detect coding errors.
+   - Prepare abuse cases, optimizing the utilization of the testing budget.
+
+5. **Secure Code Training and Awareness:** The development team is equipped with secure code training and heightened awareness to empower them to write secure code from the outset.
+
+6. **Security Tools Proficiency:** Developers are also trained in the effective utilization of security tools, including instructions on when and where to deploy them.
+
+In the DevSecOps planning phase, these security measures are paramount to ensuring the continuous integration of security practices while comprehensively addressing business requirements and potential threats.
